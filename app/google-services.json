@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "482634080482",
+    "firebase_url": "https://security-mechanism-default-rtdb.firebaseio.com",
+    "project_id": "security-mechanism",
+    "storage_bucket": "security-mechanism.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482634080482:android:5b737e5954ac1f3f18bebb",
+        "android_client_info": {
+          "package_name": "com.example.imagesecure"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl8nM8Uhng7KFLCaXUh9HhiAvlHWbbge8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
