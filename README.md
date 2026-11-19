@@ -42,7 +42,7 @@ App/
 1. Clone this repository.
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/gsb-08/medical-image-security-app.git
 ```
 
 2. Open the project in Android Studio.
